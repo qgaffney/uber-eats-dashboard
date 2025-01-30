@@ -1,11 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
+import DetailedOrder from "/Users/q.gaffney/Desktop/CMSC300/Assignments/uber-eats-dashboard/src/modules/DetailedOrder/index.js";
 
 function App() {
   return (
-    <div className="App">
-      <span>CMSC 300!</span>
-    </div>
+    <DetailedOrder />
   );
 }
 
