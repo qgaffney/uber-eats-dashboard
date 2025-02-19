@@ -1,5 +1,3 @@
-import logo from '/Users/q.gaffney/Desktop/CMSC300/Assignments/uber-eats-dashboard/src/logo.svg';
-import '/Users/q.gaffney/Desktop/CMSC300/Assignments/uber-eats-dashboard/src/App.css';
 import { Card, Descriptions, Divider, List, Button} from 'antd';
 import dishes from '/Users/q.gaffney/Desktop/CMSC300/Assignments/uber-eats-dashboard/src/assets/data/dashboard/dishes.json';
 
